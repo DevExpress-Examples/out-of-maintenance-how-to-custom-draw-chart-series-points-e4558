@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/CustomDrawSeriesPoints/MainPage.xaml) (VB: [MainPage.xaml.vb](./VB/CustomDrawSeriesPoints/MainPage.xaml.vb))
+* [MainPage.xaml.cs](./CS/CustomDrawSeriesPoints/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/CustomDrawSeriesPoints/MainPage.xaml.vb))
+<!-- default file list end -->
 # How to custom draw chart  series points 
 
 
