@@ -1,7 +1,0 @@
-﻿<Application xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
-             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
-             x:Class="CustomDrawSeriesPoints.App" xmlns:my="clr-namespace:System;assembly=mscorlib">
-  <Application.Resources>
-    <my:String x:Key="DevExpress.Xpf.License">83-B9-9A-3B-F1-3D-26-C0-63-A7-26-23-CD-77-D9-19-FF-F9-A0-D8</my:String>
-  </Application.Resources>
-</Application>
